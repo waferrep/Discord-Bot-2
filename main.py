@@ -2,7 +2,7 @@ import os
 import discord
 from discord.ext import commands
 
-TOKEN = 'OTU3MzkzMTg1NjExNTk5OTIz.Yj-H4g.OK8R4UoWVhndkF4_UrTLro6XW7g'
+TOKEN = #YOUR TOKEN HERE
 ID = 146395257313951744
 
 client = commands.Bot(command_prefix='-')
